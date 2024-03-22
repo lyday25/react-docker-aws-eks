@@ -11,5 +11,5 @@ app.get("/me", (req, res) => {
 });
 
 app.listen(5004, () => {
-  console.log("listening");
+  console.log("Server running...");
 });
